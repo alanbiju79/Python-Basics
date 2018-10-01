@@ -1,4 +1,4 @@
-//This program adds two numbers together
+#This program adds two numbers together
 
 def solveMeFirst(a,b):
     return a+b
